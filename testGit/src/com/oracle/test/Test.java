@@ -7,6 +7,6 @@ public class Test {
 
     public void te(){
         int i = 0;
-        System.out.println(i);
+        System.out.println(i + 2);
     }
 }
